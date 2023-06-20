@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 ![moonyah's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonyah&show_icons=true&theme=gruvbox&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonyah&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
+<img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dltk456)](https://solved.ac/dltk456)
 
