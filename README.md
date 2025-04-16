@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=130&section=header&text=moonyah%20github&fontSize=50&animation=blink&desc=🌼%20Hi%20there&descAlignY=85&descAlign=70&descSize=15)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoonyah%2Fhit-counter&count_bg=%233D8EC8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <a href="https://github.com/devxb/gitanimals">
 <img
